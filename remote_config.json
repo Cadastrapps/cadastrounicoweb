@@ -1,12 +1,12 @@
 {
   "showAds":true,
-  "adsInterval":30,
+  "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
-  "showTestAds":true,
-  "showBannerAds":true,
-  "interstitialAdUnit":"/22405025169,22727539007/com.cadastrapps.cadastrounico.Interstitial",
-  "openAppAdUnitId":"/22405025169,22727539007/com.cadastrapps.cadastrounico.AppOpen",
+  "showTestAds":false,
+  "showBannerAds":false,
+  "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.cadastrounico.Interstitial1",
+  "openAppAdUnitId":"/22405025169,22870746737/com.cadastrapps.cadastrounico.AppOpen1",
   "bannerAdUnit":""
   
 }
