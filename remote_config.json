@@ -3,6 +3,7 @@
   "adsInterval":30,
   "showAppOpenAd":true,
   "showFirstAd":true,
+  "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":false,
   "interstitialAdUnit":"/22405025169,22870746737/com.cadastrapps.cadastrounico.Interstitial1",
